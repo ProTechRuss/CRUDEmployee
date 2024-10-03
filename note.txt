@@ -1,0 +1,4 @@
+Exercise: Displaying Employee Details
+
+Objective:
+Using the provided code, debug it to display a list of employees in a table. Ensure the ability to add a new employee, view each employee's details correctly, and verify that all displayed information is accurate. Refer to screenshot.png for a visual reference of the desired layout.
